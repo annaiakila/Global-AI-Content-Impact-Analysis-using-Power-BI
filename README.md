@@ -34,16 +34,23 @@ Dataset Purpose
 This dataset is intended for analyzing:
 
 ✔ Trends in AI-based content production
+
 ✔ Regional and sector-wise impact
+
 ✔ Cost benefits achieved through automation
+
 ✔ ROI and performance metrics
+
 ✔ Usage of AI tools across industries
 
 This dataset is suitable for:
 
 🔹 Machine learning models
+
 🔹 BI dashboards
+
 🔹 Trend forecasting
+
 🔹 Comparative decision-making reports
 
 Power BI Dashboard Details
@@ -87,8 +94,11 @@ Improvement percentages and cumulative ROI
  Dashboard Features
 
 ✔ Filters & slicers (Region, Date, Industry)
+
 ✔ Dynamic drill-down
+
 ✔ KPI cards
+
 ✔ Forecast and comparison charts
 
  Usage Instructions
@@ -145,4 +155,5 @@ Basic understanding of analytics
  Author / Contributor
 
 Prepared by: [Annai Akila]
+
 Year: 2025
