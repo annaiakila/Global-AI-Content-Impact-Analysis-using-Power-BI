@@ -1,8 +1,5 @@
 # Global-AI-Content-Impact-Analysis-using-Power-BI
 
-Project Name
-
-Global AI Content Impact Analysis
 
 Files Included
 
@@ -13,7 +10,9 @@ Files Included
 
 
 Dataset Information
+
 File: global_ai_content_impact_dataset.xlsx
+
 Data Attributes
 
 | Column Name           | Description                                    |
